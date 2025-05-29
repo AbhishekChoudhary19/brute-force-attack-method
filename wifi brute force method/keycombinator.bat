@@ -3,7 +3,7 @@
 setlocal enabledelayedexpansion
 
 	cd BF_Files
-	title  Key Combinator - Developed By ILLUSIVEHACKS
+	title  Key Combinator - Developed By ABHISHEK CHOUDHARY
 	mode con:cols=60 lines=30
 	::%60 Char %20 Digit %10 Symbol %10 Previous
 	
@@ -126,10 +126,10 @@ setlocal enabledelayedexpansion
 	:main
 	echo.
 	echo  [==================================================]
-	call colorchar.exe /0b "                Key Combinator 1.0.0"
+	call colorchar.exe /0b "                Key Combinator"
 	echo.
 	echo  [==================================================]
-	call colorchar.exe /0e "                  Developed By ILLUSIVEHACKS"
+	call colorchar.exe /0e "                  Developed By ABHISHEK CHOUDHARY"
 	echo.
 	echo  [==================================================]
 	echo.
