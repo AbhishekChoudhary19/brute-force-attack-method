@@ -17,6 +17,11 @@ type in cmd wifiscan
 
 now it will show you all the wifi networks
 
+choose wifi network
+
+type in cmd attack
+
+
 ![Screenshot (8)](https://github.com/user-attachments/assets/38233c11-9e15-403f-8e2c-911418e6e4ae)
 ![Screenshot (9)](https://github.com/user-attachments/assets/f3c2922d-6399-4bfe-8724-e38eb89aaa03)
 
